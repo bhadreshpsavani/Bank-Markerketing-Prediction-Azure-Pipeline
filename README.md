@@ -1,15 +1,26 @@
 # Bank Marketing Prediction Azure Pipeline 
 
-*TODO:* Write an overview to your project.
+We are having BankMarketing Data about customers and effectiveness of marketing on customer. We will create and run an AutoML Experiment using Azure Pipeline. 
+
+In this project, We will continue to work with the Bank Marketing dataset. We will use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. We will also create, publish, and consume a pipeline. 
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+
+In this project, We will following the below steps:
+
+1. Authentication
+2. Automated ML Experiment
+3. Deploy the best model
+4. Enable logging
+5. Swagger Documentation
+6. Consume model endpoints
+7. Create and publish a pipeline
+
+![architecture](/images/Architecture.png)
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+https://youtu.be/0wsMm_FQkaU
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
