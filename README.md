@@ -23,6 +23,7 @@ In this project, We will following the below steps:
     Below Image shows that data has been registered
     ![registered_dataset](images/DatasetRegistered.PNG)
     After Registering Data, We completed an automl Run
+    ML studio showing the scheduled run
     ![run_completed1](images/run_completed.PNG)
     ![run_completed2](images/run_completed2.PNG))
 
@@ -66,6 +67,13 @@ For creating Swagger UI for Rest End of Azure deployed model. We need to downloa
     ![pipeline_created2](images/pipeline_created2.PNG)
     ![pipeline_created3](images/pipeline_created3.PNG)
     ![pipeline_created4](images/pipeline_created4.PNG)
+    
+    The `Published Pipeline overview`, showing a REST endpoint and a status of `ACTIVE`
+    ![pipeline_active](images/pipeline_status_active.PNG)
+    
+    ML studio showing the pipeline endpoint as Active
+    ![pipeline_active](images/pipeline_published_run_active.PNG)
+    
 
 ## Screen Recording
 https://youtu.be/lEFy_f39_wQ
